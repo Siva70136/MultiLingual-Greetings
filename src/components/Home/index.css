@@ -1,0 +1,43 @@
+.Main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.button-container {
+  margin-top: 8px;
+  margin-bottom: 15px;
+  display: flex;
+}
+
+.button {
+  border-color: #e91e63;
+  border-radius: 18px;
+  width: 100%;
+  padding: 8px;
+  color: #e91e63;
+  cursor: pointer;
+  font-weight: 300;
+  margin-left: 8px;
+}
+
+.image {
+  width: 300px;
+}
+
+.eenglish {
+  background-color: #e91e63;
+  color: white;
+}
+.tatamil {
+  background-color: #e91e63;
+  color: white;
+}
+.tetelugu {
+  background-color: #e91e63;
+  color: white;
+}
+li {
+  list-style: none;
+}
